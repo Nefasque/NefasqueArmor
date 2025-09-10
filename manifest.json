@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Nefasque Armor",
+		"description": "Personalized armor by Nefasque",
+		"uuid": "b76a93d6-9af4-5407-0c45-a68071db4a04",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Nefasque Armos",
+			"type": "resources",
+			"uuid": "004b2936-efaa-e9db-5b3d-c18c154d1f05",
+			"version": [1, 0, 0]
+		}
+	]
+}
